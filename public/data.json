@@ -1,0 +1,60 @@
+[
+    {
+      "id": 1,
+      "title": "Samenenar",
+      "details": "Join us at the Samenenar, a knowledge-sharing extravaganza where industry experts converge to impart their wisdom. Dive deep into a world of insights, trends, and innovation, gaining valuable expertise. Whether you're a novice or seasoned professional, this seminar promises enriching experiences and networking opportunities that will significantly impact your career. Don't miss this unique opportunity to be part of the Samenenar's enlightening journey!",
+      "img": "https://i.ibb.co/ZHwH0yG/5.jpg",
+      "price": 10.99
+    },
+    {
+      "id": 2,
+      "title": "Contest",
+      "details": "Get ready for the Contest of a lifetime! Engage in thrilling challenges that test your skills and wit, all while vying for incredible prizes. This event promises an adrenaline-packed adventure, attracting competitive spirits and fun-loving enthusiasts alike. Whether you're a seasoned competitor or a newcomer, the Contest guarantees a day of excitement and memorable victories.",
+      "img": "https://i.ibb.co/Br1ytB7/3.jpg",
+      "price": 5.504
+    },
+    {
+      "id": 3,
+      "title": "Science Fair",
+      "details": "Embark on a scientific journey at the Science Fair, where you'll explore captivating exhibits, hands-on experiments, and groundbreaking discoveries. Dive into the world of innovation and wonder as you interact with experts and fellow enthusiasts. Perfect for all ages, the Science Fair promises an educational and awe-inspiring experience for everyone.",
+      "img": "https://i.ibb.co/s6btfZV/2-1.jpg",
+      "price": 15.746
+    },
+    {
+      "id": 4,
+      "title": "Class Party",
+      "details": "Celebrate the end of the semester in style with the Class Party! It's the perfect occasion to unwind, enjoy great food, and create lasting memories with your classmates. Whether you're dancing the night away or sharing stories by the bonfire, this party promises a fantastic time for everyone.",
+      "img": "https://i.ibb.co/frsWmqL/7.jpg",
+      "price": 8.99
+    },
+    {
+      "id": 5,
+      "title": "Orientations",
+      "details": "Navigate your academic journey confidently with Orientations. Learn about your program, meet professors, and connect with fellow students. Get ready to embark on a successful educational adventure with all the information and support you need.",
+      "img": "https://i.ibb.co/KqTv6xS/6.jpg",
+      "price": 46.87
+    },
+    {
+      "id": 6,
+      "title": "Club Carnival",
+      "details": "Step into a world of excitement and entertainment at the Club Carnival. Explore a variety of engaging club activities, from games to performances. Whether you're an enthusiast or just looking for a good time, the Club Carnival offers endless fun and an opportunity to discover your new passions.",
+      "img": "https://i.ibb.co/gD2GMkk/Intel-2018-ISEF-4-1024x606.jpg",
+      "price": 12.25
+    },
+    {
+      "id": 7,
+      "title": "Convocation",
+      "details": "Celebrate your academic achievements with Convocation, a grand ceremony that marks the culmination of your educational journey. Join fellow graduates and take pride in your accomplishments. It's a momentous occasion filled with pride, joy, and the promise of a bright future.",
+      "img": "https://i.ibb.co/k6XBXGS/neu-4f19sd87p.jpg",
+      "price": 20.764
+    },
+    {
+      "id": 8,
+      "title": "Picnic",
+      "details": "Escape to the great outdoors with Picnic. Spend a relaxing day surrounded by nature, sharing delicious food and laughter with friends and family. Whether you're lounging by the lake or playing games in the park, this picnic promises a day of blissful serenity and camaraderie.",
+      "img": "https://i.ibb.co/frsWmqL/7.jpg",
+      "price": 70.75
+    }
+   
+  ]
+  
